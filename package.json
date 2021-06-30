@@ -73,7 +73,6 @@
     "react-focus-on": "^3.5.1",
     "react-full-screen": "^1.0.1",
     "react-transition-group": "^4.4.1",
-    "react-view-pager": "^0.6.0",
     "rollup-plugin-uglify": "^6.0.4"
   },
   "peerDependencies": {
